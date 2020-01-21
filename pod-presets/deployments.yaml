@@ -18,7 +18,7 @@ spec:
         ports:
         - name: nodejs-port
           containerPort: 3000
-----
+---
 apiVersion: apps/v1
 kind: Deployment
 metadata:
